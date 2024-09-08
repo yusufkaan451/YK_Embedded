@@ -12,9 +12,9 @@
 #include "lwip/err.h"
 #include "lwip/ip4_addr.h"
 
-#define WIFI_SSID "ayy"
-#define WIFI_PASSWORD "w!123456"
-#define MQTT_URI "mqtt://homeio:79dDJcWriy6q3s5@mqtt.gohm.tech:1883"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define MQTT_URI ""
 #define MQTT_TOPIC "your/topic"
 
 static const char *TAG = "WIFI_MQTT_APP";
