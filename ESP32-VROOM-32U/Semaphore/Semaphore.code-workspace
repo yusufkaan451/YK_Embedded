@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "TestISRv1",
+			"path": "../TestISRv1"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp32test",
+			"path": "../esp32test"
+		},
+		{
+			"name": "ISRtask3",
+			"path": "../ISRtask3"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"inttypes.h": "c"
+		},
+		"python.autoComplete.extraPaths": [
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		]
+	}
+}

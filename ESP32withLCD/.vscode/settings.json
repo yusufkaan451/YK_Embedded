@@ -1,0 +1,4 @@
+{
+    "ros.distro": "humble",
+    "cmake.sourceDirectory": "/home/yusuf/esp32/ESP32withLCD/PlatformIO/OTA/src"
+}

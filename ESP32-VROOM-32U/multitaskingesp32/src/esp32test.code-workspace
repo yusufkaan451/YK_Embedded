@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../esp32test"
+		},
+		{
+			"name": "multitaskingesp32",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"gpio.h": "c",
+			"task.h": "c"
+		}
+	}
+}
